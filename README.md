@@ -10,7 +10,7 @@ V projektu bom analiziral fundamentalno analizo valutnega para EUR/USD. Fundamen
 
 Pri valutnem paru EUR/USD bom analiziral kako inflacija, stopnja brezposelnosti, rast BDP, ter ostali ekonomski kazatelji v evropskem in ameriškem gospodarstvu vplivajo na menjalni tečaj in kako lahko to vključimo v predikcijo, kako se bo tečaj obnašal v prihodnje.
 
-Upošteval bom podatke zadnjih 5 let.
+Upošteval bom podatke zadnjih med leti 2008 in 2013.
 
 ## Program
 
