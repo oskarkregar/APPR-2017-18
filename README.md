@@ -1,11 +1,16 @@
 # Analiza podatkov s programom R, 2017/18
 
+Avtor: Oskar Kregar
+
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2017/18
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V projektu bom analiziral fundamentalno analizo valutnega para EUR/USD. Fundamentalna analiza FOREX (Foreign Exchange Market- Valutni trg) trga je ena izmed dveh analiz, ki jih uporabljamo za njegovo raziskavo. Temelji na analiziranju ekonomskih, socialnih in političnih sprememb/poročil na valutne pare. Začnemo jo lahko kot top-down analizo, pri kateri analiziramo globalni trg in se kasneje osredotočimo na zanimive valutne pare, ali kot bottom down analizo, pri kateri analiziramo posamezne valutne pare in kasneje vključimo globalni trg.
+
+Pri valutnem paru EUR/USD bom analiziral kako inflacija, stopnja brezposelnosti, rast BDP, ter ostali ekonomski kazatelji v evropskem in ameriškem gospodarstvu vplivajo na menjalni tečaj in kako lahko to vključimo v predikcijo, kako se bo tečaj obnašal v prihodnje.
+
+Upošteval bom podatke zadnjih 5 let.
 
 ## Program
 
